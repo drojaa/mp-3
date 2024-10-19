@@ -1,16 +1,16 @@
 import { createBrowserRouter, Route, Routes, RouterProvider } from 'react-router-dom';
 import styled from "styled-components"
-import Home from './components/home-page';
-import Education from './components/education-page';
+import Home from './components/pages/home-page';
+import Education from './components/pages/education-page';
 import Header from './components/header';
 import Nav from './components/nav';
 import Footer from './components/footer';
 import './App.css';
-import Employment from './components/employment-page';
-import Achievements from './components/achievements-page';
-import Projects from './components/projects-page';
-import Volunteer from './components/volunteer-work-page';
-import References from './components/references-page';
+import Employment from './components/pages/employment-page';
+import Achievements from './components/pages/achievements-page';
+import Projects from './components/pages/projects-page';
+import Volunteer from './components/pages/volunteer-work-page';
+import References from './components/pages/references-page';
 
 
 const NavMain = styled.div `
