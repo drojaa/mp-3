@@ -118,7 +118,7 @@ export default function Home() {
 
                 <br></br><br></br>Overall, I am excited to explore and integrate my diverse interests, optimizing my resources to build a versatile and fulfilling career.
 
-                <br></br><br></br><NavLinks>Welcome to my website to learn more about my <Link to="/Employment"><em><strong>Employment</strong></em></Link> history, <Link to="/Extracurriculars"><em><strong>Extracurriculars</strong></em></Link>, and much more!</NavLinks></ParagraphTwo>
+                <br></br><br></br><NavLinks>Welcome to my website to learn more about my <Link to="/Employment"><em><strong>Employment</strong></em></Link> history, <Link to="/VolunteerWork"><em><strong>Extracurriculars</strong></em></Link>, and much more!</NavLinks></ParagraphTwo>
        
         </MainContainer>
     )

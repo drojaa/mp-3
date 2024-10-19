@@ -42,7 +42,7 @@ const Root = () => {
         <Route path="/Employment" element={<Employment/>} />
         <Route path="/Achievements" element={<Achievements/>} />
         <Route path="/Projects" element={<Projects/>} />
-        <Route path="/Volunteer Work" element={<Volunteer/>} />
+        <Route path="/VolunteerWork" element={<Volunteer/>} />
         <Route path="/References" element={<References/>} />
       </Routes>
      

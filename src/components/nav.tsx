@@ -104,7 +104,7 @@ export default function Nav(){
                 <LiContainer> <Link to="/Employment"><LiContainerItems>Employment</LiContainerItems></Link> </LiContainer>
                 <LiContainer> <Link to="/Achievements"> <LiContainerItems>Achievements</LiContainerItems></Link> </LiContainer>
                 <LiContainer> <Link to="/Projects"><LiContainerItems>Projects</LiContainerItems></Link></LiContainer>
-                <LiContainer> <Link to="/Volunteer Work"><LiContainerItems>Volunteer Work</LiContainerItems></Link> </LiContainer>
+                <LiContainer> <Link to="/VolunteerWork"><LiContainerItems>Volunteer Work</LiContainerItems></Link> </LiContainer>
                 <LiContainer> <Link to="/References"><LiContainerItems>References</LiContainerItems></Link> </LiContainer>
             </UlContainer>
         </NavContainer>
