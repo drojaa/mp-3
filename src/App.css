@@ -1,0 +1,5 @@
+
+* {
+    margin: 0; /* Reset margin for all elements */
+    box-sizing: border-box; /* Ensure padding and border are included in element's total width and height */
+}
