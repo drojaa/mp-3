@@ -1,5 +1,6 @@
 import { styled } from 'styled-components'
 import { Link } from 'react-router-dom'
+import resumePic from '../images/resume_pic.jpeg'
 
 const MainContainer = styled.main`
 // border: 2px solid orange;
@@ -104,7 +105,7 @@ export default function Home() {
         <MainContainer>
             <MainHeader>Home</MainHeader>
             <ImageParagraph>
-            <ImageContainer src="resume_pic.jpeg" alt="Image of Self"></ImageContainer>
+            <ImageContainer src={resumePic} alt="Image of Self"></ImageContainer>
             <ParagraphOne>Hey there! I’m Derinell Rojas, a self-driven visionary in undergrad who's enthusiastic about combining creativity and logic to produce innovative solutions that are both visually captivating and functionally impactful. I’m currently pursuing a Bachelor of Arts degree in Computer Science at Boston University, complemented by a diverse foundation in sociology, art history, journalism, and marketing/advertising gained through university coursework and external opportunities. These pursuits have equipped me with a well-rounded foundation, enabling me to approach my career with a holistic perspective and create work that is socially impactful, artistically rich, and thoughtfully crafted with a strategic edge.
 
                 
